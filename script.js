@@ -14,7 +14,7 @@ a.addEventListener("click", () => {
     l2.style.color = "#5e60769b";
     a.innerHTML = "Dark";
     a.style.backgroundColor = "#79c2d0";
-    a.style.marginLeft = "60px";
+    a.style.marginLeft = "58px";
     p.style.backgroundColor = "#a2a8d3";
     flag = 1;
   }
