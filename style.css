@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'WinterMirage';
+    src: url('./fonts/WinterMirage-ARlgp.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  .font-winter {
+    font-family: 'WinterMirage', sans-serif;
+  }
